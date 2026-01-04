@@ -88,7 +88,7 @@ Sinta-se à vontade para fazer um fork deste projeto e submeter Pull Requests. Q
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mc4rvalho/gerenciador-de-tarefas-curso-react/blob/main/LICENSE) para mais detalhes.
 
 ---
 
