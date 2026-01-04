@@ -93,5 +93,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.goog
 ---
 
 Desenvolvido por [Matheus Carvalho](https://www.google.com/search?q=https://github.com/mc4rvalho)
-
-```
